@@ -1,0 +1,11 @@
+.bundle
+.DS_Store
+tmp/*
+log/*.log
+vendor/bundle/*
+*.swp
+*~
+config/email_configs.yml
+.idea
+.Rproj.user
+.ruby-version
